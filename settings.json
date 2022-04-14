@@ -56,13 +56,17 @@
                 {
                     "face": "Lucida Console"
                 },
-                "cursorShape": "vintage"
-            },
+                "cursorShape": "vintage",
+                "backgroundImage": "C:\\Users\\ca_ni\\Pictures\\terminalBkgrnd3.gif",
+                "fontSize": 12
+                },
             {
                 "colorScheme": "CAs Sweet theme",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
-                "name": "Command Prompt"
+                "name": "Command Prompt",
+                "backgroundImage": "C:\\Users\\ca_ni\\Pictures\\terminalBkgrnd2.gif",
+                "fontSize": 10
             },
             {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
@@ -74,7 +78,9 @@
                 "font": 
                 {
                     "face": "Courier New"
-                }
+                },
+                "fontSize": 8
+
             },
             {
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
@@ -85,7 +91,8 @@
                 "font": 
                 {
                     "face": "Cascadia Code"
-                }
+                },
+                "fontSize": 14
             },
             {
                 "guid": "{44f6cad8-28fc-5618-87a9-82ef137f2bba}",
